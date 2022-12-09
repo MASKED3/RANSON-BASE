@@ -1,0 +1,19 @@
+{
+  "name": "ranson",
+  "version": "1.0.0",
+  "description": "❌ Developed by ༺⎛⎝𝔇𝔢𝔪𝔬𝔫⎠⎞༻#8391",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASKED3/RANSON.git"
+  },
+  "author": "༺⎛⎝𝔇𝔢𝔪𝔬𝔫⎠⎞༻#8391",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASKED3/RANSON/issues"
+  },
+  "homepage": "https://github.com/MASKED3/RANSON#readme"
+}
